@@ -6,5 +6,5 @@
   "ingredient": {
     "tag": "forge:dusts/silver"
   },
-  "result": "occultism:silver_ingot",
+  "result": "create:brass_ingot",
 }
